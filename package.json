@@ -1,0 +1,19 @@
+{
+  "name": "lit-element-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index..js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.5.0",
+    "lit-html": "^2.5.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35",
+    "parcel": "^2.8.1"
+  }
+}
